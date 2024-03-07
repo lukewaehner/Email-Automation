@@ -37,4 +37,4 @@ def send_email(subject, body, recipient_email):
 
     # format: Subject, Body, Recipient Email
 send_email("Boom", "Test",
-           "luke.waehner@gmail.com")
+           "test@test.com")
